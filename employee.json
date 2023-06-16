@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "Name": "Nasreen",
+      "DOB": "24/08/2001",
+      "Height": 165,
+      "City": "Erode",
+      "State": "Chennai"
+    },
+    {
+      "Name": "Pavani",
+      "DOB": "05/03/1999",
+      "Height": 166,
+      "City": "Bangalore",
+      "State": "Karanataka"
+    },
+    {
+      "Name": "Priya",
+      "DOB": "26/06/2000",
+      "Height": 169,
+      "City": "Hyderabad",
+      "State": "Telangana"
+    },
+    {
+      "Name": "Riya",
+      "DOB": "25/12/1999",
+      "Height": 168,
+      "City": "Kochi",
+      "State": "Karanataka"
+    },
+    {
+      "Name": "Bharathi",
+      "DOB": "18/04/1999",
+      "Height": 163,
+      "City": "Vishakapatanam",
+      "State": "Andhra Pradesh"
+    }
+  ]
+}
